@@ -1,3 +1,5 @@
+注：我觉得他们做的有点丑所以当时fork了，想尝试还原Origin的UI用，但没时间做。搞笑。
+
 # EAapp模拟器
 
 EAapp模拟器（EAappEmulater） By `Misaka_Mikoto_01` And `CrazyZhang666`
